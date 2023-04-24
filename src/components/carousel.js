@@ -3,8 +3,8 @@ import Carousel from "react-material-ui-carousel";
 import ChevronRightIcon from "@material-ui/icons/ChevronRight";
 import ChevronLeftIcon from "@material-ui/icons/ChevronLeft";
 
-import { makeStyles } from "@material-ui/core/styles";
-import { Button } from "@material-ui/core";
+// import { makeStyles } from "@material-ui/core/styles";
+import { Button } from "'@mui/material";
 
 const useStyles = makeStyles((theme) => ({
   carouselDiv: {

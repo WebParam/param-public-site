@@ -8,7 +8,7 @@ import {
   MenuItem,
   Select,
   Button
-} from "@material-ui/core";
+} from "@mui/material";
 import SearchIcon from "@material-ui/icons/Search";
 import styles from "./catalogStyles";
 import { makeStyles } from "@material-ui/core/styles";
